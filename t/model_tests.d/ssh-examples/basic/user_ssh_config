@@ -41,4 +41,6 @@ Port                 20022
 User                 ocad
 ControlPersist       YES
 
-
+Host persistent
+ControlMaster auto
+ControlPersist 1h
